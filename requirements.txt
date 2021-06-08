@@ -4,4 +4,4 @@ django-model-utils==3.0.0
 gunicorn==19.7.1
 pytz==2017.2
 django-tinymce==2.6.0
-Pillow==4.2.1
+Pillow==8.2.0
